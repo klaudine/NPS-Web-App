@@ -1,4 +1,4 @@
-This web application allows users to find and explore U.S. national parks and their features. Users could create a profile, upload their photo, and create/delete a favorite parks list.
+We tackled a Full-Stack development project with a team of 3 developers, building a Web application tailored for outdoor enthusiasts. Our goal was to create a user-friendly platform where users can easily sign up, log in, search for activities, bookmark favorite parks, and personalize their profiles. This all-in-one solution ensures that outdoor lovers have everything they need to plan and customize their outdoor adventures effortlessly.
 
 
 # WebApp boilerplate with React JS and Flask API
