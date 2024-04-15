@@ -1,3 +1,6 @@
+This web application allows users to find and explore U.S. national parks and their features. Users could create a profile, upload their photo, and create/delete a favorite parks list.
+
+
 # WebApp boilerplate with React JS and Flask API
 
 Build web applications using React.js for the front end and python/flask for your backend API.
